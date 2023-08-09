@@ -1,0 +1,15 @@
+C:\BIM\ITI\3-Programing\exam\Custom Functions\bin\Debug\net6.0\Custom Functions.exe
+C:\BIM\ITI\3-Programing\exam\Custom Functions\bin\Debug\net6.0\Custom Functions.deps.json
+C:\BIM\ITI\3-Programing\exam\Custom Functions\bin\Debug\net6.0\Custom Functions.runtimeconfig.json
+C:\BIM\ITI\3-Programing\exam\Custom Functions\bin\Debug\net6.0\Custom Functions.dll
+C:\BIM\ITI\3-Programing\exam\Custom Functions\bin\Debug\net6.0\Custom Functions.pdb
+C:\BIM\ITI\3-Programing\exam\Custom Functions\obj\Debug\net6.0\Custom Functions.csproj.AssemblyReference.cache
+C:\BIM\ITI\3-Programing\exam\Custom Functions\obj\Debug\net6.0\Custom Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\BIM\ITI\3-Programing\exam\Custom Functions\obj\Debug\net6.0\Custom Functions.AssemblyInfoInputs.cache
+C:\BIM\ITI\3-Programing\exam\Custom Functions\obj\Debug\net6.0\Custom Functions.AssemblyInfo.cs
+C:\BIM\ITI\3-Programing\exam\Custom Functions\obj\Debug\net6.0\Custom Functions.csproj.CoreCompileInputs.cache
+C:\BIM\ITI\3-Programing\exam\Custom Functions\obj\Debug\net6.0\Custom Functions.dll
+C:\BIM\ITI\3-Programing\exam\Custom Functions\obj\Debug\net6.0\refint\Custom Functions.dll
+C:\BIM\ITI\3-Programing\exam\Custom Functions\obj\Debug\net6.0\Custom Functions.pdb
+C:\BIM\ITI\3-Programing\exam\Custom Functions\obj\Debug\net6.0\Custom Functions.genruntimeconfig.cache
+C:\BIM\ITI\3-Programing\exam\Custom Functions\obj\Debug\net6.0\ref\Custom Functions.dll

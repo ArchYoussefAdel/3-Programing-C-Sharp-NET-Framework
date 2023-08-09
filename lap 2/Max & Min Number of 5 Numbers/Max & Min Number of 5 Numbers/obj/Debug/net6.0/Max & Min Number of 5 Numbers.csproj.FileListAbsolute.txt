@@ -1,0 +1,15 @@
+C:\BIM\ITI\Programing\lap 2\Max & Min Number of 5 Numbers\Max & Min Number of 5 Numbers\bin\Debug\net6.0\Max & Min Number of 5 Numbers.exe
+C:\BIM\ITI\Programing\lap 2\Max & Min Number of 5 Numbers\Max & Min Number of 5 Numbers\bin\Debug\net6.0\Max & Min Number of 5 Numbers.deps.json
+C:\BIM\ITI\Programing\lap 2\Max & Min Number of 5 Numbers\Max & Min Number of 5 Numbers\bin\Debug\net6.0\Max & Min Number of 5 Numbers.runtimeconfig.json
+C:\BIM\ITI\Programing\lap 2\Max & Min Number of 5 Numbers\Max & Min Number of 5 Numbers\bin\Debug\net6.0\Max & Min Number of 5 Numbers.dll
+C:\BIM\ITI\Programing\lap 2\Max & Min Number of 5 Numbers\Max & Min Number of 5 Numbers\bin\Debug\net6.0\Max & Min Number of 5 Numbers.pdb
+C:\BIM\ITI\Programing\lap 2\Max & Min Number of 5 Numbers\Max & Min Number of 5 Numbers\obj\Debug\net6.0\Max & Min Number of 5 Numbers.csproj.AssemblyReference.cache
+C:\BIM\ITI\Programing\lap 2\Max & Min Number of 5 Numbers\Max & Min Number of 5 Numbers\obj\Debug\net6.0\Max & Min Number of 5 Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\BIM\ITI\Programing\lap 2\Max & Min Number of 5 Numbers\Max & Min Number of 5 Numbers\obj\Debug\net6.0\Max & Min Number of 5 Numbers.AssemblyInfoInputs.cache
+C:\BIM\ITI\Programing\lap 2\Max & Min Number of 5 Numbers\Max & Min Number of 5 Numbers\obj\Debug\net6.0\Max & Min Number of 5 Numbers.AssemblyInfo.cs
+C:\BIM\ITI\Programing\lap 2\Max & Min Number of 5 Numbers\Max & Min Number of 5 Numbers\obj\Debug\net6.0\Max & Min Number of 5 Numbers.csproj.CoreCompileInputs.cache
+C:\BIM\ITI\Programing\lap 2\Max & Min Number of 5 Numbers\Max & Min Number of 5 Numbers\obj\Debug\net6.0\Max & Min Number of 5 Numbers.dll
+C:\BIM\ITI\Programing\lap 2\Max & Min Number of 5 Numbers\Max & Min Number of 5 Numbers\obj\Debug\net6.0\refint\Max & Min Number of 5 Numbers.dll
+C:\BIM\ITI\Programing\lap 2\Max & Min Number of 5 Numbers\Max & Min Number of 5 Numbers\obj\Debug\net6.0\Max & Min Number of 5 Numbers.pdb
+C:\BIM\ITI\Programing\lap 2\Max & Min Number of 5 Numbers\Max & Min Number of 5 Numbers\obj\Debug\net6.0\Max & Min Number of 5 Numbers.genruntimeconfig.cache
+C:\BIM\ITI\Programing\lap 2\Max & Min Number of 5 Numbers\Max & Min Number of 5 Numbers\obj\Debug\net6.0\ref\Max & Min Number of 5 Numbers.dll

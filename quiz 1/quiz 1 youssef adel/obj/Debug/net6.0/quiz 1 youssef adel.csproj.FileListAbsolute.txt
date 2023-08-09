@@ -1,0 +1,15 @@
+C:\BIM\ITI\Programing\quiz 1\quiz 1 youssef adel\bin\Debug\net6.0\quiz 1 youssef adel.exe
+C:\BIM\ITI\Programing\quiz 1\quiz 1 youssef adel\bin\Debug\net6.0\quiz 1 youssef adel.deps.json
+C:\BIM\ITI\Programing\quiz 1\quiz 1 youssef adel\bin\Debug\net6.0\quiz 1 youssef adel.runtimeconfig.json
+C:\BIM\ITI\Programing\quiz 1\quiz 1 youssef adel\bin\Debug\net6.0\quiz 1 youssef adel.dll
+C:\BIM\ITI\Programing\quiz 1\quiz 1 youssef adel\bin\Debug\net6.0\quiz 1 youssef adel.pdb
+C:\BIM\ITI\Programing\quiz 1\quiz 1 youssef adel\obj\Debug\net6.0\quiz 1 youssef adel.csproj.AssemblyReference.cache
+C:\BIM\ITI\Programing\quiz 1\quiz 1 youssef adel\obj\Debug\net6.0\quiz 1 youssef adel.GeneratedMSBuildEditorConfig.editorconfig
+C:\BIM\ITI\Programing\quiz 1\quiz 1 youssef adel\obj\Debug\net6.0\quiz 1 youssef adel.AssemblyInfoInputs.cache
+C:\BIM\ITI\Programing\quiz 1\quiz 1 youssef adel\obj\Debug\net6.0\quiz 1 youssef adel.AssemblyInfo.cs
+C:\BIM\ITI\Programing\quiz 1\quiz 1 youssef adel\obj\Debug\net6.0\quiz 1 youssef adel.csproj.CoreCompileInputs.cache
+C:\BIM\ITI\Programing\quiz 1\quiz 1 youssef adel\obj\Debug\net6.0\quiz 1 youssef adel.dll
+C:\BIM\ITI\Programing\quiz 1\quiz 1 youssef adel\obj\Debug\net6.0\refint\quiz 1 youssef adel.dll
+C:\BIM\ITI\Programing\quiz 1\quiz 1 youssef adel\obj\Debug\net6.0\quiz 1 youssef adel.pdb
+C:\BIM\ITI\Programing\quiz 1\quiz 1 youssef adel\obj\Debug\net6.0\quiz 1 youssef adel.genruntimeconfig.cache
+C:\BIM\ITI\Programing\quiz 1\quiz 1 youssef adel\obj\Debug\net6.0\ref\quiz 1 youssef adel.dll

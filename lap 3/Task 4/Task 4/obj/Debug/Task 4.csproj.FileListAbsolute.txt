@@ -1,0 +1,8 @@
+D:\ITI 2023\05- C#\Lec 4\Task 4\obj\Debug\Task 4.csproj.AssemblyReference.cache
+D:\ITI 2023\05- C#\Lec 4\Task 4\obj\Debug\Task 4.csproj.SuggestedBindingRedirects.cache
+D:\ITI 2023\05- C#\Lec 4\Task 4\obj\Debug\Task 4.csproj.CoreCompileInputs.cache
+D:\ITI 2023\05- C#\Lec 4\Task 4\bin\Debug\Task 4.exe.config
+D:\ITI 2023\05- C#\Lec 4\Task 4\bin\Debug\Task 4.exe
+D:\ITI 2023\05- C#\Lec 4\Task 4\bin\Debug\Task 4.pdb
+D:\ITI 2023\05- C#\Lec 4\Task 4\obj\Debug\Task 4.exe
+D:\ITI 2023\05- C#\Lec 4\Task 4\obj\Debug\Task 4.pdb

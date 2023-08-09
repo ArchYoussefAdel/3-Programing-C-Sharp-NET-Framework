@@ -1,0 +1,15 @@
+C:\BIM\ITI\Programing\test in course\obj\Debug\net6.0\test in course.csproj.AssemblyReference.cache
+C:\BIM\ITI\Programing\test in course\obj\Debug\net6.0\test in course.GeneratedMSBuildEditorConfig.editorconfig
+C:\BIM\ITI\Programing\test in course\obj\Debug\net6.0\test in course.AssemblyInfoInputs.cache
+C:\BIM\ITI\Programing\test in course\obj\Debug\net6.0\test in course.AssemblyInfo.cs
+C:\BIM\ITI\Programing\test in course\obj\Debug\net6.0\test in course.csproj.CoreCompileInputs.cache
+C:\BIM\ITI\Programing\test in course\bin\Debug\net6.0\test in course.exe
+C:\BIM\ITI\Programing\test in course\bin\Debug\net6.0\test in course.deps.json
+C:\BIM\ITI\Programing\test in course\bin\Debug\net6.0\test in course.runtimeconfig.json
+C:\BIM\ITI\Programing\test in course\bin\Debug\net6.0\test in course.dll
+C:\BIM\ITI\Programing\test in course\bin\Debug\net6.0\test in course.pdb
+C:\BIM\ITI\Programing\test in course\obj\Debug\net6.0\test in course.dll
+C:\BIM\ITI\Programing\test in course\obj\Debug\net6.0\refint\test in course.dll
+C:\BIM\ITI\Programing\test in course\obj\Debug\net6.0\test in course.pdb
+C:\BIM\ITI\Programing\test in course\obj\Debug\net6.0\test in course.genruntimeconfig.cache
+C:\BIM\ITI\Programing\test in course\obj\Debug\net6.0\ref\test in course.dll
