@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\BIM\\ITI\\3-Programing\\lap 10\\lap 10\\lap 10.csproj",
+      "projectUniqueName": "C:\\BIM\\ITI\\3-Programing-C-Sharp-NET-Framework\\lap 10\\lap 10\\lap 10.csproj",
       "projectName": "lap 10",
-      "projectPath": "C:\\BIM\\ITI\\3-Programing\\lap 10\\lap 10\\lap 10.csproj",
+      "projectPath": "C:\\BIM\\ITI\\3-Programing-C-Sharp-NET-Framework\\lap 10\\lap 10\\lap 10.csproj",
       "packagesPath": "C:\\Users\\Youssef\\.nuget\\packages\\",
-      "outputPath": "C:\\BIM\\ITI\\3-Programing\\lap 10\\lap 10\\obj\\",
+      "outputPath": "C:\\BIM\\ITI\\3-Programing-C-Sharp-NET-Framework\\lap 10\\lap 10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Youssef\\AppData\\Roaming\\NuGet\\NuGet.Config",

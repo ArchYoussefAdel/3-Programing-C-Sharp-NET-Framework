@@ -144,11 +144,11 @@ class Lap_10_1_1
 
         e.PrintData(EmployeeSheet);
 
-        //Console.WriteLine($"Enter the Number of customers ");
-        //int CustomerCount = int.Parse(Console.ReadLine());
-        //Customer[] CustomerSheet = new Customer[CustomerCount];
-        //Customer.Fill(CustomerSheet);
-        //Customer c = new Customer();
-        //c.PrintData(CustomerSheet);
+        Console.WriteLine($"Enter the Number of customers ");
+        int CustomerCount = int.Parse(Console.ReadLine());
+        Customer[] CustomerSheet = new Customer[CustomerCount];
+        Customer.Fill(CustomerSheet);
+        Customer c = new Customer();
+        c.PrintData(CustomerSheet);
     }
 }
